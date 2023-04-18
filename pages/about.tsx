@@ -77,7 +77,7 @@ export default function About() {
             </h3>
             <p className="my-2">
               This app inserts embeddings into only one pinecone namespace by
-              default called {`pdf-starter`}. If you want to add new files after
+              default called {`finetunegpt`}. If you want to add new files after
               uploading, you will first need to delete the old one or modify the
               hardcoded namespace.
             </p>

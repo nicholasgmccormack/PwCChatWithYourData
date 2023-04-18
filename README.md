@@ -176,8 +176,4 @@ Options:
 
 - [Vercel](https://vercel.com/docs/concepts/deployments/overview)
 - [Fly.io](https://fly.io/)
-- [Render](https://render.com/docs/deploy-to-render)
 
-## Credits
-
-[chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs/tree/main)

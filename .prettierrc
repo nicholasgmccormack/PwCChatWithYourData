@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
   "trailingComma": "all",
   "singleQuote": true,
   "printWidth": 80,
   "tabWidth": 2
 }
+=======
+{
+  "trailingComma": "all",
+  "singleQuote": true,
+  "printWidth": 80,
+  "tabWidth": 2
+}
+>>>>>>> 193008a8b8225f7fd98ddbaa04459afe458571f1

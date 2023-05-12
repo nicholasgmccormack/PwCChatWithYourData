@@ -67,8 +67,8 @@ export default async function handler(
         // console.log(rawDocs);
 
         const textSplitter = new RecursiveCharacterTextSplitter({
-          chunkSize: 1000,
-          chunkOverlap: 200,
+          chunkSize: 200,
+          chunkOverlap: 10,
         });
         return await textSplitter.splitDocuments(rawDocs);
       }),
